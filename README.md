@@ -19,6 +19,16 @@ Welcome to my GitHub profile! Here, you'll find repositories related to my inter
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+---
+
+### 🏗️ Frameworks & Libraries I've Contributed To
+
+![Pinecone](https://img.shields.io/badge/Pinecone-228B22?style=flat&logo=pinecone&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFCC00?style=flat&logo=langchain&logoColor=black)
+![Aurelio](https://img.shields.io/badge/Aurelio-0066FF?style=flat&logo=aurelio&logoColor=white)
 
 ---
 
