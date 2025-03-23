@@ -1,4 +1,4 @@
-### Hello there, I'm Joshua Briggs! 👋
+### Hello there! 👋
 
 Welcome to my GitHub profile! Here, you'll find repositories related to my interests and ongoing projects. Feel free to explore and contribute!
 
